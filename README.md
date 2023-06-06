@@ -1,6 +1,6 @@
-# SMS-Spam-API
+<!-- # SMS-Spam-API
 ## Steps to Access
-To access our application you can either download the [android application]().
+To access our application you can either download the [android application](). -->
 
 - [Backend API Postman Documentation](https://documenter.getpostman.com/view/18833270/UVeAtoRi)
 - [Android App](https://github.com/ankithans/aadhaar-address-update/releases/download/v1.0.0/app-release.apk)
