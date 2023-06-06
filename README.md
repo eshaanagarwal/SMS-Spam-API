@@ -8,7 +8,7 @@ To access our application you can either download the [android application](). -
 - [Video Demonstration](https://drive.google.com/file/d/1dfzlQbMaFiceaMA3m3UuaSNw_MhVyJiU/view?usp=sharing)
 
 <!-- ## Motivation  -->
-Confidence in an online world
+<!-- Confidence in an online world -->
 Our lives have been subjected to digital attacks more than ever before.
 
 In recent times, during the lockdown period, a lot of citizens were victims of an SMS scam. 
