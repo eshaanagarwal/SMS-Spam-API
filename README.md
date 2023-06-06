@@ -69,14 +69,14 @@ Technologies : Deep Learning, Bi-LSTM
 <!-- ## Steps to run loclly
 Clone the repo in your local machine and setup python and flutter environment. Create .env file similar to .env.sample file with all the required fields. -->
 
-### Mobile Application
+<!-- ### Mobile Application
 1. Go into `app/` directory by doing `cd app` in terminal.
 2. Configure firebase for android by folllowing the [doumentation](https://firebase.flutter.dev/docs/installation/android/).
-3. Write `flutter run` in the terminal to start the application.
+3. Write `flutter run` in the terminal to start the application. -->
 
-### Flask Server
+<!-- ### Flask Server
 1. Install all the required packages in python virtual enviroment `pip install requirements.txt`
-2. Run `python app.py` in the root directory of the project.
+2. Run `python app.py` in the root directory of the project. -->
 
 ## Contributors
 - [Harsh Jadon](https://github.com/harshjadon9)
