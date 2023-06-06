@@ -61,9 +61,9 @@ To design and develop a mobile app that can automatically scan through SMS texts
     </tr>
 </table>
 
-## Tech Stack
+<!-- ## Tech Stack
 React Native, Python, Flask, Tensorflow, Heroku, Git, Numpy, Pandas, Scikit, Matplotlib
-Technologies : Deep Learning, Bi-LSTM
+Technologies : Deep Learning, Bi-LSTM -->
 
 
 <!-- ## Steps to run loclly
