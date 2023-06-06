@@ -11,8 +11,8 @@ To access our application you can either download the [android application](). -
 <!-- Confidence in an online world -->
 <!-- Our lives have been subjected to digital attacks more than ever before. -->
 
-In recent times, during the lockdown period, a lot of citizens were victims of an SMS scam. 
-The victim receives an SMS as below:
+<!-- In recent times, during the lockdown period, a lot of citizens were victims of an SMS scam. 
+The victim receives an SMS as below: -->
 
 > "Dear customer, your xxx bank account will be suspended! Please Re KYC Verification Update click here link http://446bdf227fc4.ngrok.io/xxxbank".
 
