@@ -7,7 +7,7 @@ To access our application you can either download the [android application](). -
 - [Google Slides Presentation](https://docs.google.com/presentation/d/1jLPull2oPpjYmqjZ3OYSywi6pUvDwz_kdRglHXa2vA0/edit?usp=sharing)
 - [Video Demonstration](https://drive.google.com/file/d/1dfzlQbMaFiceaMA3m3UuaSNw_MhVyJiU/view?usp=sharing)
 
-## Motivation 
+<!-- ## Motivation  -->
 Confidence in an online world
 Our lives have been subjected to digital attacks more than ever before.
 
