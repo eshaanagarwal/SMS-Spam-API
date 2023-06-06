@@ -66,8 +66,8 @@ React Native, Python, Flask, Tensorflow, Heroku, Git, Numpy, Pandas, Scikit, Mat
 Technologies : Deep Learning, Bi-LSTM
 
 
-## Steps to run loclly
-Clone the repo in your local machine and setup python and flutter environment. Create .env file similar to .env.sample file with all the required fields.
+<!-- ## Steps to run loclly
+Clone the repo in your local machine and setup python and flutter environment. Create .env file similar to .env.sample file with all the required fields. -->
 
 ### Mobile Application
 1. Go into `app/` directory by doing `cd app` in terminal.
