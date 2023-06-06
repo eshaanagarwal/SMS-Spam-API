@@ -78,7 +78,7 @@ Clone the repo in your local machine and setup python and flutter environment. C
 1. Install all the required packages in python virtual enviroment `pip install requirements.txt`
 2. Run `python app.py` in the root directory of the project. -->
 
-## Contributors
+<!-- ## Contributors
 - [Harsh Jadon](https://github.com/harshjadon9)
 - [Karnik Kanojia](https://github.com/karnikkanojia)
-- [Eshaan Agarwal](https://github.com/eshaanagarwal)
+- [Eshaan Agarwal](https://github.com/eshaanagarwal) -->
